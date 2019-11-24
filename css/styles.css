@@ -47,10 +47,10 @@ h1 {
   transform: rotate(25deg);
 }
 
-#title-row h1 {
+.main-title {
   margin-bottom: 30px;
 }
 
-#title-row button {
+.download-button {
   margin-right: 15px;
 }
