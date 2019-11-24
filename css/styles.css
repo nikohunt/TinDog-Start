@@ -8,7 +8,23 @@
 
 h1 {
   font-family: 'Montserrat', sans-serif;
-  font-weight: 900;
-  font-size: 3rem;
+  font-weight: 800;
+  font-size: 3.5rem;
   line-height: 1.5;
+}
+
+.navbar {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.navbar-brand {
+  font-family: Ubuntu;
+  font-size: 2rem;
+  font-weight: 900;
+}
+
+.nav-item {
+  margin-left: 1rem;
+  margin-right: 1rem;
 }
