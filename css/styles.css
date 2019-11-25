@@ -18,10 +18,10 @@ h1 {
   line-height: 1.5;
 }
 
+/* Navigation Bar */
+
 .navbar {
-  padding-left: 0;
-  padding-bottom: 4.5rem;
-  /* padding-right: 0; */
+  padding: 0 0 4.5rem;
 }
 
 .navbar-brand {
@@ -31,10 +31,15 @@ h1 {
 }
 
 .nav-item {
-  font-size: 1.25rem;
-  margin-left: 1rem;
-  margin-right: 1rem;
+  margin: 0 18px;
 }
+
+.nav-link {
+  font-size: 1.25rem;
+  font-weight: 300;
+}
+
+/* Mockup Image */
 
 .shrinkimg80 {
   width: 80%;
