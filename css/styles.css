@@ -53,10 +53,7 @@ h1 {
   transform: rotate(25deg);
 }
 
-.main-title {
-  margin-bottom: 30px;
-}
-
+/* Download Buttons */
 .download-button {
-  margin-right: 15px;
+  margin: 5% 3% 5% 0;
 }
