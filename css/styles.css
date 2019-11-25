@@ -1,5 +1,6 @@
 #title {
   background-color: #ff4c68;
+  color: white;
 }
 
 .container-fluid {
@@ -11,7 +12,6 @@ h1 {
   font-weight: 800;
   font-size: 3.5rem;
   line-height: 1.5;
-  color: white;
 }
 
 .navbar {
